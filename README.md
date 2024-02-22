@@ -12,7 +12,7 @@ This repository contains programs written for the higher-level programming at AL
 * [python-test_driven_development](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-test_driven_development)
 * [python-more_classes](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-more_classes)
 * [python-everything_is_object](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-everything_is_object)
-* [0x0A-python-inheritance](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/0x0A-python-inheritance)
+* [python-inheritance](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-inheritance)
 * [python-input_output](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-input_output)
 * [python-almost_a_circle](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-almost_a_circle)
 ## Authors
